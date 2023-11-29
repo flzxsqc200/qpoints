@@ -1,5 +1,5 @@
 # qpoints
-Qemu tracing plugin using SimPoints
+Qemu tracing plugin using SimPoints AAAA
 
 Compiling
 ---
